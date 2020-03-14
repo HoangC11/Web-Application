@@ -1,0 +1,40 @@
+.header {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.headerLineBotton {
+    width: 100%;
+    height: 1px;
+    background-color: silver;
+}
+.iconHome {
+    width: 36px;
+    height: 36px;
+    width: 5%;
+    text-align: start;
+}
+.titleScreen {
+    width: 90%;
+}
+.iconLogout {
+    width: 36px;
+    height: 36px;
+    width: 5%;
+    text-align: end;
+}
+.ListItem {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.TableItem {
+    width: 100%;
+}
+
+.TableTrItem {
+    width: 100%;
+}
+.TableTdItem {
+    width: 30%;
+}

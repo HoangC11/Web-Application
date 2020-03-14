@@ -1,0 +1,41 @@
+
+.ItemBlog {
+    height: 250px;
+    margin-top: 40px;
+    border: 1px solid silver;
+    padding: 16px;
+    box-shadow: 0 2px 3px #ccc;
+}
+.viewTitleBlog {
+    vertical-align: top;    
+    flex-direction: row;
+    display: flex;
+}
+.viewTextTitleBlog {
+    width: 100%;
+}
+.textTitleBlog {
+    color: steelblue;
+    vertical-align: top;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.textTitleTeacher {
+    color: silver;
+    margin-left: 10px;
+}
+.IconAvatar {
+    width: 46px;
+    height: 46px;
+}
+.viewLine {
+    width: 100%;
+    height: 1px;
+    background-color: silver;
+    margin: 10px 10px 10px 10px;    
+}
+.textDescription {
+    color: steelblue;
+}
+
+
